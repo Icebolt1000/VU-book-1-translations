@@ -640,5 +640,5 @@ translate portuguese strings:
 
     # game/code/Book-1/Chapter-3/s01.rpy:105
     old "Respond humorously"
-    new "Responder humorosamente"
+    new "Responder de forma humorada"
 
